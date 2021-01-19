@@ -19,10 +19,8 @@ export default function Cards() {
   
   const remove=(id)=>{
      axios.delete(`http://localhost:8000/${id}`)
-    
   }
-
-
+  
   let cardDet = lists.map(list=>{
     return(
       <div>

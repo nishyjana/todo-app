@@ -4,10 +4,7 @@ import './CSS/App.css'
 function App() {
   return (
     <div className="App">
-      
-      <Todo/>
-     
-     
+     <Todo/>
     </div>
   );
 }
