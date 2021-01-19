@@ -1,0 +1,17 @@
+.card{
+    width: 500px;
+    margin: auto;
+    display: flex;
+    
+
+}
+
+.card__buttons{
+        margin-left: 700px;
+        padding: 4px;
+        margin-right: 5px;
+        margin: 40px;
+
+
+    
+}

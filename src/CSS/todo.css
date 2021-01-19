@@ -1,0 +1,31 @@
+.todo__input{
+    width: 400px;
+    align-items: center;
+    padding-top: 60px;
+    margin-left: 600px;
+    display: flex;
+ 
+   
+   
+   
+
+}
+.todo__addBtn{
+    margin-top: 60px;
+    padding-left: 30px;
+    margin-right: auto;
+  
+
+}
+
+.todo__main{
+    
+    
+}
+.todo__card{
+    margin-top: 200px;
+   margin: 100px;
+   align-self: auto;
+   align-items: center;
+   
+}
